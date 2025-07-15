@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Javascript , C++**
+- 💬 Ask me about **Javascript , Java**
 
 - 📫 How to reach me **hiteshshinde1094@gmail.com**
 
